@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\bin\Debug\net5.0\02. English Name of the Last.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\bin\Debug\net5.0\02. English Name of the Last.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\bin\Debug\net5.0\02. English Name of the Last.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\bin\Debug\net5.0\02. English Name of the Last.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\bin\Debug\net5.0\02. English Name of the Last.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\bin\Debug\net5.0\ref\02. English Name of the Last.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\bin\Debug\net5.0\02. English Name of the Last.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\ref\02. English Name of the Last.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\02. English Name of the Last\obj\Debug\net5.0\02. English Name of the Last.genruntimeconfig.cache

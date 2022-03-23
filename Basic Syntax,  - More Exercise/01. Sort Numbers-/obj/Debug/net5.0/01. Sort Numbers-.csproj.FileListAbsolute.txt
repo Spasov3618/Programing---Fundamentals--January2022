@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\bin\Debug\net5.0\01. Sort Numbers-.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\bin\Debug\net5.0\01. Sort Numbers-.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\bin\Debug\net5.0\01. Sort Numbers-.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\bin\Debug\net5.0\01. Sort Numbers-.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\bin\Debug\net5.0\01. Sort Numbers-.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\bin\Debug\net5.0\ref\01. Sort Numbers-.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\bin\Debug\net5.0\01. Sort Numbers-.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\ref\01. Sort Numbers-.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax,  - More Exercise\01. Sort Numbers-\obj\Debug\net5.0\01. Sort Numbers-.genruntimeconfig.cache

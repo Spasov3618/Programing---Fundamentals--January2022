@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\ref\01. Student Information.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net5.0\01. Student Information.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\ref\01. Student Information.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net5.0\01. Student Information.genruntimeconfig.cache

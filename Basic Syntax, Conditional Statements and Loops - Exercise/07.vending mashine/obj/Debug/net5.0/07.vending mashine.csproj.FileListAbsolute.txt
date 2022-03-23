@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\bin\Debug\net5.0\07.vending mashine.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\bin\Debug\net5.0\07.vending mashine.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\bin\Debug\net5.0\07.vending mashine.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\bin\Debug\net5.0\07.vending mashine.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\bin\Debug\net5.0\07.vending mashine.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\bin\Debug\net5.0\ref\07.vending mashine.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\bin\Debug\net5.0\07.vending mashine.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\ref\07.vending mashine.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07.vending mashine\obj\Debug\net5.0\07.vending mashine.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\netcoreapp3.1\09. Sum of Odd Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\net5.0\ref\08. Triangle of Numbers.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\ref\08. Triangle of Numbers.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.genruntimeconfig.cache

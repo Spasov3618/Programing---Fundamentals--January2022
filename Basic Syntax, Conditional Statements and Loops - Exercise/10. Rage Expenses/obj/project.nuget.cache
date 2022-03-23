@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpYIz9KZ9s9L/lch0LhByqO/os1ioifdvVRU9+M+zhjmv4OLBNXmXkqqO566MWIraSp6Oz41VEncNTPp0duK3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\10. Rage Expenses\\10. Rage Expenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

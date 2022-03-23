@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "44dVu50ogYsW7XPdiT09XGWZPC2vSVvvNxXxCkVxJWN664ad2z2pKaYZSgON1ox1/i0UmW+crp7wB7Tz/TAxFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer 1\\05. Month Printer 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

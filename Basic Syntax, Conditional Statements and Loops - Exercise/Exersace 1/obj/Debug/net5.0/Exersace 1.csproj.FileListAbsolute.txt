@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\bin\Debug\net5.0\Exersace 1.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\bin\Debug\net5.0\Exersace 1.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\bin\Debug\net5.0\Exersace 1.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\bin\Debug\net5.0\Exersace 1.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\bin\Debug\net5.0\Exersace 1.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\bin\Debug\net5.0\ref\Exersace 1.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\bin\Debug\net5.0\Exersace 1.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\ref\Exersace 1.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Exersace 1\obj\Debug\net5.0\Exersace 1.genruntimeconfig.cache

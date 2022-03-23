@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Qdi2Fpb49Nex4uQvUSI8EqFjHjeWd9XV71Q3KAdMO9LEd2x3nHLNtsHh7olefjaVRoVvfyCipQao9ci2W2bDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\04. Print and sum\\04. Print and sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

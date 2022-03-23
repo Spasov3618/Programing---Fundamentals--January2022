@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9O6/sZwRfEsVoNJzQweH0XuD1Dw2GoZ5HR8ls5QCEUCH2iXXZMXik14fR2XGqxTODe1r9iUVc2wv0sUWE+olA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\03. Passed or Failed 1\\03. Passed or Failed 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+XIOM2VZTyvAUEDj/78DAXjnNTjgmgQzPgioEpqEOUOLy7eq8KBkJesIwglyMMHSiEXYYw8IS03Iek9egbFew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\06. Foreign Languages1\\06. Foreign Languages1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

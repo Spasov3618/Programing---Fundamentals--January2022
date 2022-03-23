@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SInz8Q+BIfmGiDe8ajheBI9l607L4FN4X++qKkD0CfTctw9ux4g/0R2Dic/NM/XRWYH9g9ii0B/Gxa2nuGRJfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\07.vending mashine\\07.vending mashine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

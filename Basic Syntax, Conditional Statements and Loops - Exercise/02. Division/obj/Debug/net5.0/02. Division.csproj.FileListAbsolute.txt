@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.exe
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.deps.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\ref\02. Division.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\net5.0\02. Division.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\ref\02. Division.dll
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.pdb
+C:\Users\sv.spasov\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\net5.0\02. Division.genruntimeconfig.cache

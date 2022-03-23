@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdEElwjOGtp1WZSSfVnqPnA9QhoWhnH32i2eqtIsQF8CVY+U7nJJgfy17wwqZmylwSKI1nUxGt3tmJc32pI/Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\06. Strong number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

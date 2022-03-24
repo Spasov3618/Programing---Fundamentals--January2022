@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\net5.0\2. Rage Quit.exe
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\net5.0\2. Rage Quit.deps.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\net5.0\2. Rage Quit.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\net5.0\2. Rage Quit.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\net5.0\2. Rage Quit.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\net5.0\2. Rage Quit.pdb
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\refint\2. Rage Quit.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.pdb
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\2. Rage Quit.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\net5.0\ref\2. Rage Quit.dll

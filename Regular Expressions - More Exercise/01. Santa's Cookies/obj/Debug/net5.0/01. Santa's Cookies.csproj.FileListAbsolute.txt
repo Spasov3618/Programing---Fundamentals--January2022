@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.exe
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.deps.json
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.dll
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\bin\Debug\net5.0\01. Santa's Cookies.pdb
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.dll
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\refint\01. Santa's Cookies.dll
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.pdb
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\01. Santa's Cookies.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Fundamentals\Regular Expressions - More Exercise\01. Santa's Cookies\obj\Debug\net5.0\ref\01. Santa's Cookies.dll

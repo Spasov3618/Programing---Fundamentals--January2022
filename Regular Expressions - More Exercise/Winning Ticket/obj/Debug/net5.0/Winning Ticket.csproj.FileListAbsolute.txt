@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\bin\Debug\net5.0\Winning Ticket.exe
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\bin\Debug\net5.0\Winning Ticket.deps.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\bin\Debug\net5.0\Winning Ticket.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\bin\Debug\net5.0\Winning Ticket.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\bin\Debug\net5.0\Winning Ticket.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\bin\Debug\net5.0\Winning Ticket.pdb
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\refint\Winning Ticket.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.pdb
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\Winning Ticket.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - More Exercise\Winning Ticket\obj\Debug\net5.0\ref\Winning Ticket.dll

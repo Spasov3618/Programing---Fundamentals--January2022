@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.exe
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.deps.json
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.dll
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\bin\Debug\net5.0\2. Stack Sum.pdb
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.dll
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\refint\2. Stack Sum.dll
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.pdb
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\2. Stack Sum.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\training\2. Stack Sum\obj\Debug\net5.0\ref\2. Stack Sum.dll

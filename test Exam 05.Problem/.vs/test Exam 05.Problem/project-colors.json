@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d59fd8f4-0b15-47e7-8080-a914da12cac7": {
+      "ProjectGuid": "d59fd8f4-0b15-47e7-8080-a914da12cac7",
+      "DisplayName": "Activation Keys",
+      "ColorIndex": 0
+    },
+    "fd3f7066-2082-4322-9f72-99fb688eb41b": {
+      "ProjectGuid": "fd3f7066-2082-4322-9f72-99fb688eb41b",
+      "DisplayName": "03. P!rates",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

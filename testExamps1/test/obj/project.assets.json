@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sv.spasov\\source\\repos\\testExamps1\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\sv.spasov\\source\\repos\\Fundamentals\\Programing---Fundamentals--January2022\\testExamps1\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\sv.spasov\\source\\repos\\testExamps1\\test\\test.csproj",
+      "projectPath": "C:\\Users\\sv.spasov\\source\\repos\\Fundamentals\\Programing---Fundamentals--January2022\\testExamps1\\test\\test.csproj",
       "packagesPath": "C:\\Users\\sv.spasov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sv.spasov\\source\\repos\\testExamps1\\test\\obj\\",
+      "outputPath": "C:\\Users\\sv.spasov\\source\\repos\\Fundamentals\\Programing---Fundamentals--January2022\\testExamps1\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sv.spasov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

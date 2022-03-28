@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48cf994c-ff54-4c79-9227-9ff062c8ad71": {
+      "ProjectGuid": "48cf994c-ff54-4c79-9227-9ff062c8ad71",
+      "DisplayName": "01. The Imitation Game",
+      "ColorIndex": 0
+    },
+    "01ae520a-3b6c-49a4-8283-00e2a652cbf9": {
+      "ProjectGuid": "01ae520a-3b6c-49a4-8283-00e2a652cbf9",
+      "DisplayName": "02. Ad Astra",
+      "ColorIndex": 1
+    },
+    "f09094f3-04a9-48d8-974f-2b8304df9576": {
+      "ProjectGuid": "f09094f3-04a9-48d8-974f-2b8304df9576",
+      "DisplayName": "03. The Pianist",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

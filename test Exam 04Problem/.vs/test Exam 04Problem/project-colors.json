@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1ada36e-4dd1-45bf-9f64-fba250ad802a": {
+      "ProjectGuid": "d1ada36e-4dd1-45bf-9f64-fba250ad802a",
+      "DisplayName": "01. Password Reset",
+      "ColorIndex": 0
+    },
+    "c4cc326a-6499-401d-870a-36a7cb218ee0": {
+      "ProjectGuid": "c4cc326a-6499-401d-870a-36a7cb218ee0",
+      "DisplayName": "03. Heroes of Code and Logic VII",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

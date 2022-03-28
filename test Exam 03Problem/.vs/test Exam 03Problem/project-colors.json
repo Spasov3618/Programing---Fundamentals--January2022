@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccd0915b-eedf-4038-8bbc-38e742042d4f": {
+      "ProjectGuid": "ccd0915b-eedf-4038-8bbc-38e742042d4f",
+      "DisplayName": "01. Secret Chat",
+      "ColorIndex": 0
+    },
+    "524ec791-da67-4a4e-b18c-54257366ae6b": {
+      "ProjectGuid": "524ec791-da67-4a4e-b18c-54257366ae6b",
+      "DisplayName": "03. Need for Speed III",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\bin\Debug\net5.0\02. Destination Mapper 1.exe
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\bin\Debug\net5.0\02. Destination Mapper 1.deps.json
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\bin\Debug\net5.0\02. Destination Mapper 1.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\bin\Debug\net5.0\02. Destination Mapper 1.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\bin\Debug\net5.0\02. Destination Mapper 1.dll
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\bin\Debug\net5.0\02. Destination Mapper 1.pdb
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.dll
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\refint\02. Destination Mapper 1.dll
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.pdb
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\02. Destination Mapper 1.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\test exam 02Problem\02. Destination Mapper 1\obj\Debug\net5.0\ref\02. Destination Mapper 1.dll

@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.exe
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.deps.json
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.dll
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.pdb
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.dll
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.pdb
+C:\Users\sv.spasov\source\repos\testExamps1\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.genruntimeconfig.cache

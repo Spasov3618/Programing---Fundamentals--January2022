@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.exe
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.deps.json
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.dll
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\bin\Debug\netcoreapp3.1\05. Best Player.pdb
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.dll
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.pdb
+C:\Users\sv.spasov\source\repos\testExamps\05. Best Player\obj\Debug\netcoreapp3.1\05. Best Player.genruntimeconfig.cache

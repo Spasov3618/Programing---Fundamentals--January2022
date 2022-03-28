@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.exe
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.deps.json
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.dll
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\bin\Debug\netcoreapp3.1\02. Add Bags.pdb
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.dll
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.pdb
+C:\Users\sv.spasov\source\repos\testExamps\02. Add Bags\obj\Debug\netcoreapp3.1\02. Add Bags.genruntimeconfig.cache

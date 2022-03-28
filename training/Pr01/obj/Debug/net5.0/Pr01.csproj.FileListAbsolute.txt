@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\training\Pr01\bin\Debug\net5.0\Pr01.exe
+C:\Users\sv.spasov\source\repos\training\Pr01\bin\Debug\net5.0\Pr01.deps.json
+C:\Users\sv.spasov\source\repos\training\Pr01\bin\Debug\net5.0\Pr01.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\training\Pr01\bin\Debug\net5.0\Pr01.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\training\Pr01\bin\Debug\net5.0\Pr01.dll
+C:\Users\sv.spasov\source\repos\training\Pr01\bin\Debug\net5.0\Pr01.pdb
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.dll
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\refint\Pr01.dll
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.pdb
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\Pr01.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\training\Pr01\obj\Debug\net5.0\ref\Pr01.dll

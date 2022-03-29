@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayf4K/hkg0Ww84jHUmzdDYN+ewtK2JpDM7JFy3SLPHCHUd6GhabySATm+VTlRGEpt++3Jmx15ZFPrrm+t9BvGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Arrays - Lab\\Print Numbers in Reverse Order\\Print Numbers in Reverse Order.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

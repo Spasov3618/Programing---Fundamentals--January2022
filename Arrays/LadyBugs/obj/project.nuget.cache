@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ci3W/QUK9zmnf/d8KqaLkfY1T86IHVsIyUfve2QSFY5df31JnFVGdITxMJAWXnKihsoLnISiJyAGj8cON2ZCCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Arrays\\LadyBugs\\LadyBugs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

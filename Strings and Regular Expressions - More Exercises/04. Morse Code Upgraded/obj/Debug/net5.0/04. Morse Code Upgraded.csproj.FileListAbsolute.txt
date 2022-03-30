@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\net5.0\04. Morse Code Upgraded.exe
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\net5.0\04. Morse Code Upgraded.deps.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\net5.0\04. Morse Code Upgraded.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\net5.0\04. Morse Code Upgraded.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\net5.0\04. Morse Code Upgraded.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\bin\Debug\net5.0\04. Morse Code Upgraded.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\refint\04. Morse Code Upgraded.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\04. Morse Code Upgraded.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\04. Morse Code Upgraded\obj\Debug\net5.0\ref\04. Morse Code Upgraded.dll

@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\net5.0\03. Karate Strings.exe
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\net5.0\03. Karate Strings.deps.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\net5.0\03. Karate Strings.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\net5.0\03. Karate Strings.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\net5.0\03. Karate Strings.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\bin\Debug\net5.0\03. Karate Strings.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\refint\03. Karate Strings.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\03. Karate Strings.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\03. Karate Strings\obj\Debug\net5.0\ref\03. Karate Strings.dll

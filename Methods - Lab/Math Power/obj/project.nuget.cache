@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvFK+QDk877bI4q6IloFXIIjqt/es1tMR+Q8s3BMmBLpbjaz56DpbYOvmjuoD02TXPKAbcxwdG0bphg+E4vNkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Methods - Lab\\Math Power\\Math Power.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sr2QCm2ecIyTztDCA2AH2Yj7TWK4OSgycKCFJ3ercjaBOh6+lg1iCCldgEBWgsnZ/4Kn4MLZkSJWti3AbGC2Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Methods - Lab\\Orders\\Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

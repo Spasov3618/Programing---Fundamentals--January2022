@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ca07334-043a-433b-8ce5-1c4d63ce951a": {
+      "ProjectGuid": "6ca07334-043a-433b-8ce5-1c4d63ce951a",
+      "DisplayName": "Sign of Integer Numbers",
+      "ColorIndex": 0
+    },
+    "c8b7354e-d5af-4107-b764-519116d99230": {
+      "ProjectGuid": "c8b7354e-d5af-4107-b764-519116d99230",
+      "DisplayName": "Grades",
+      "ColorIndex": 1
+    },
+    "92b7b684-3a84-4712-af31-1543f3bf0c41": {
+      "ProjectGuid": "92b7b684-3a84-4712-af31-1543f3bf0c41",
+      "DisplayName": "Calculations",
+      "ColorIndex": 2
+    },
+    "53f40f7a-778c-4745-b1cf-8c7f90df651d": {
+      "ProjectGuid": "53f40f7a-778c-4745-b1cf-8c7f90df651d",
+      "DisplayName": "Printing Triangle",
+      "ColorIndex": 3
+    },
+    "590eed3e-3867-44df-ace2-46da709beba3": {
+      "ProjectGuid": "590eed3e-3867-44df-ace2-46da709beba3",
+      "DisplayName": "Orders",
+      "ColorIndex": 4
+    },
+    "f2f60f97-8106-4cc6-be7f-bde773b58379": {
+      "ProjectGuid": "f2f60f97-8106-4cc6-be7f-bde773b58379",
+      "DisplayName": "Calculate Rectangle Area",
+      "ColorIndex": 5
+    },
+    "38879341-1398-4373-8099-212442fc48ae": {
+      "ProjectGuid": "38879341-1398-4373-8099-212442fc48ae",
+      "DisplayName": "Repeat String",
+      "ColorIndex": 6
+    },
+    "243aff5f-ac95-4ce0-b03a-5dcb90bbab64": {
+      "ProjectGuid": "243aff5f-ac95-4ce0-b03a-5dcb90bbab64",
+      "DisplayName": "Math Power",
+      "ColorIndex": 7
+    },
+    "d0677f58-d395-4978-8a4b-b79c091f2e24": {
+      "ProjectGuid": "d0677f58-d395-4978-8a4b-b79c091f2e24",
+      "DisplayName": "Greater of Two Values",
+      "ColorIndex": 8
+    },
+    "87000f60-00ee-4c32-a06b-e088cd310fc9": {
+      "ProjectGuid": "87000f60-00ee-4c32-a06b-e088cd310fc9",
+      "DisplayName": "Multiply Evens by Odds",
+      "ColorIndex": 9
+    },
+    "aa3ebbfb-a45e-42bd-93b2-6de0e2e982aa": {
+      "ProjectGuid": "aa3ebbfb-a45e-42bd-93b2-6de0e2e982aa",
+      "DisplayName": "Math operations",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

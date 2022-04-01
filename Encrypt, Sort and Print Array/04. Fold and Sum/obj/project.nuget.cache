@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbkfBdhlPVcYsyp86gSqABfmjYK/bk66KCqESoKog2GL0j6TRKCo+UZ7vkWQ6gSbBqLSMN2rp3qnbDpy1h4Mqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Encrypt, Sort and Print Array\\04. Fold and Sum\\04. Fold and Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

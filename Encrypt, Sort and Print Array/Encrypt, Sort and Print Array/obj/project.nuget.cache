@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAzfSi1DWoGZZA5Vx2Ed2etb2uZsqoqjLj6SIljMZrvH1p6JMjoeGVm0kEazgF15HiP37PYTED/GYLyne/ITeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Encrypt, Sort and Print Array\\Encrypt, Sort and Print Array\\Encrypt, Sort and Print Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

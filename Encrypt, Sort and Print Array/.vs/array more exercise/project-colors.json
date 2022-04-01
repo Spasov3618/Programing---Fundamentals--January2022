@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1547893d-a30f-4ae5-bb2b-f1c123d45134": {
+      "ProjectGuid": "1547893d-a30f-4ae5-bb2b-f1c123d45134",
+      "DisplayName": "Encrypt, Sort and Print Array",
+      "ColorIndex": 0
+    },
+    "3a739986-1088-4e82-8f1b-2aa190e98593": {
+      "ProjectGuid": "3a739986-1088-4e82-8f1b-2aa190e98593",
+      "DisplayName": "Pascal Triangle",
+      "ColorIndex": 1
+    },
+    "bf7e41e3-92f8-4355-aa42-ed0165156c27": {
+      "ProjectGuid": "bf7e41e3-92f8-4355-aa42-ed0165156c27",
+      "DisplayName": "03. Recursive Fibonacci",
+      "ColorIndex": 2
+    },
+    "174f3516-f44c-4127-9a69-b1c90cc18811": {
+      "ProjectGuid": "174f3516-f44c-4127-9a69-b1c90cc18811",
+      "DisplayName": "04. Fold and Sum",
+      "ColorIndex": 3
+    },
+    "abc2cf54-90ea-448f-ba60-e331711647c3": {
+      "ProjectGuid": "abc2cf54-90ea-448f-ba60-e331711647c3",
+      "DisplayName": "Longest Increasing Subsequence",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

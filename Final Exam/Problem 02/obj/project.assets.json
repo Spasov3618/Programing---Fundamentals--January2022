@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sv.spasov\\source\\repos\\Final Exam\\Problem 02\\Problem 02.csproj",
+      "projectUniqueName": "C:\\Users\\sv.spasov\\source\\repos\\Fundamentals\\Programing---Fundamentals--January2022\\Final Exam\\Problem 02\\Problem 02.csproj",
       "projectName": "Problem 02",
-      "projectPath": "C:\\Users\\sv.spasov\\source\\repos\\Final Exam\\Problem 02\\Problem 02.csproj",
+      "projectPath": "C:\\Users\\sv.spasov\\source\\repos\\Fundamentals\\Programing---Fundamentals--January2022\\Final Exam\\Problem 02\\Problem 02.csproj",
       "packagesPath": "C:\\Users\\sv.spasov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sv.spasov\\source\\repos\\Final Exam\\Problem 02\\obj\\",
+      "outputPath": "C:\\Users\\sv.spasov\\source\\repos\\Fundamentals\\Programing---Fundamentals--January2022\\Final Exam\\Problem 02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sv.spasov\\AppData\\Roaming\\NuGet\\NuGet.Config",

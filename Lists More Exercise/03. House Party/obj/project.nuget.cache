@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQB1kV+qFGTzJqelbQuGpXm7LeoxdXNOFKF0v6wnLCDmqwVSa1yH2hKHsh84W7f7Pm4JgQlxKOH8H4Rmqwe+/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Lists More Exercise\\03. House Party\\03. House Party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

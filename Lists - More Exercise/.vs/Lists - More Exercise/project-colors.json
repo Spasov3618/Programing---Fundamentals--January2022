@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c2fce65-71d1-4e01-8711-6831bf1dd6f3": {
+      "ProjectGuid": "2c2fce65-71d1-4e01-8711-6831bf1dd6f3",
+      "DisplayName": "01. Messaging",
+      "ColorIndex": 0
+    },
+    "f455b285-b21b-4c45-b26c-fa07e156f8f0": {
+      "ProjectGuid": "f455b285-b21b-4c45-b26c-fa07e156f8f0",
+      "DisplayName": "02. Car Race",
+      "ColorIndex": 1
+    },
+    "dd47ad19-f147-4146-8224-00dc92c5e0fd": {
+      "ProjectGuid": "dd47ad19-f147-4146-8224-00dc92c5e0fd",
+      "DisplayName": "Car Race01",
+      "ColorIndex": 2
+    },
+    "87655d25-faae-45db-82c4-07f24091707e": {
+      "ProjectGuid": "87655d25-faae-45db-82c4-07f24091707e",
+      "DisplayName": "03. Take Skip Rope",
+      "ColorIndex": 3
+    },
+    "34b5e5f1-5416-4a34-8071-081b04d68c7f": {
+      "ProjectGuid": "34b5e5f1-5416-4a34-8071-081b04d68c7f",
+      "DisplayName": "05. Drum Set",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

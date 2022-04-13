@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wylexMFYolkN07gEKNDH/0JzZsGT7wBY6R0tO1jJaqXlAVuA4rpd/pxB7x/gNbWe01ivWQNBDdvw4X+AYNF9sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Lists - More Exercise\\03. Take Skip Rope\\03. Take Skip Rope.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

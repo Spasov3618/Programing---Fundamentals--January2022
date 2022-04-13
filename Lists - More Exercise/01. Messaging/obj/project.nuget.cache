@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c14cWpgFkpvjg5GQNmKoC709kZf3Bia054DGPeugoaZcjfdcYbGkhI5NFdUZdmquE84KBO0Kek+3XjPCjqfzKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Lists - More Exercise\\01. Messaging\\01. Messaging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

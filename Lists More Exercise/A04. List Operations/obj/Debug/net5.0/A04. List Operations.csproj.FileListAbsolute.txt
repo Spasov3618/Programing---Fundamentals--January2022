@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\bin\Debug\net5.0\A04. List Operations.exe
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\bin\Debug\net5.0\A04. List Operations.deps.json
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\bin\Debug\net5.0\A04. List Operations.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\bin\Debug\net5.0\A04. List Operations.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\bin\Debug\net5.0\A04. List Operations.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\bin\Debug\net5.0\ref\A04. List Operations.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\bin\Debug\net5.0\A04. List Operations.pdb
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\ref\A04. List Operations.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.pdb
+C:\Users\sv.spasov\source\repos\Lists More Exercise\A04. List Operations\obj\Debug\net5.0\A04. List Operations.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pB1kEBguOk0vPvLl0Wlc47mui+qVZBReq7qSOuAuWxHEUSQflcsz0Vg4WWIso4ZSgYesXz8FrpoLit7UQrYRrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\lists\\02. Gauss' Trick\\02. Gauss' Trick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

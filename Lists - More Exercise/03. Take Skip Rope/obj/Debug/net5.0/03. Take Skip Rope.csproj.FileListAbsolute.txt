@@ -1,0 +1,15 @@
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\bin\Debug\net5.0\03. Take Skip Rope.exe
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\bin\Debug\net5.0\03. Take Skip Rope.deps.json
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\bin\Debug\net5.0\03. Take Skip Rope.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\bin\Debug\net5.0\03. Take Skip Rope.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\bin\Debug\net5.0\03. Take Skip Rope.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\bin\Debug\net5.0\ref\03. Take Skip Rope.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\bin\Debug\net5.0\03. Take Skip Rope.pdb
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\03. Take Skip Rope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\03. Take Skip Rope.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\03. Take Skip Rope.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\03. Take Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\03. Take Skip Rope.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\ref\03. Take Skip Rope.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\03. Take Skip Rope.pdb
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\03. Take Skip Rope\obj\Debug\net5.0\03. Take Skip Rope.genruntimeconfig.cache

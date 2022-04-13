@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2p0bYY+NDh0Rd7BGNtvfa4Js5RTPHa/+H9F6l0CfSI06EJ7iUQ+Fso5p3nUmvrzUq9AgOhJhyqpB9B8DGiPqyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Lists More Exercise\\05. Bomb Numbers\\05. Bomb Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

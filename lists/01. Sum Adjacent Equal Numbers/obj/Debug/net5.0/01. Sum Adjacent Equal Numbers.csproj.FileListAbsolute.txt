@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.exe
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\ref\01. Sum Adjacent Equal Numbers.dll
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\ref\01. Sum Adjacent Equal Numbers.dll
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\sv.spasov\source\repos\lists\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "478ac428-891a-410a-97fb-da418dc2700a": {
+      "ProjectGuid": "478ac428-891a-410a-97fb-da418dc2700a",
+      "DisplayName": "01. Sum Adjacent Equal Numbers",
+      "ColorIndex": 0
+    },
+    "e60237eb-de72-4aba-bafd-be762ba03ddd": {
+      "ProjectGuid": "e60237eb-de72-4aba-bafd-be762ba03ddd",
+      "DisplayName": "02. Gauss' Trick",
+      "ColorIndex": 1
+    },
+    "82b416d7-75d2-4c1b-b479-d2a14e2e047a": {
+      "ProjectGuid": "82b416d7-75d2-4c1b-b479-d2a14e2e047a",
+      "DisplayName": "03. Merging Lists",
+      "ColorIndex": 2
+    },
+    "ff57c8ba-0b14-4972-926a-b3e67ad7bee6": {
+      "ProjectGuid": "ff57c8ba-0b14-4972-926a-b3e67ad7bee6",
+      "DisplayName": "04. List of Products",
+      "ColorIndex": 3
+    },
+    "3fb5e626-7756-4153-b311-23c1582b8465": {
+      "ProjectGuid": "3fb5e626-7756-4153-b311-23c1582b8465",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 4
+    },
+    "9259607c-cc6f-49eb-a1eb-21c0c086f8a3": {
+      "ProjectGuid": "9259607c-cc6f-49eb-a1eb-21c0c086f8a3",
+      "DisplayName": "06. List Manipulation Basics",
+      "ColorIndex": 5
+    },
+    "2c617b97-0e3d-4112-a240-a978b12286b8": {
+      "ProjectGuid": "2c617b97-0e3d-4112-a240-a978b12286b8",
+      "DisplayName": "07. List Manipulation Advanced",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

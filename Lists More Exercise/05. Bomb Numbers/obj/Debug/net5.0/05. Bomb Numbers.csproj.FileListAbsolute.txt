@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.exe
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.deps.json
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\bin\Debug\net5.0\ref\05. Bomb Numbers.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\bin\Debug\net5.0\05. Bomb Numbers.pdb
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\ref\05. Bomb Numbers.dll
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.pdb
+C:\Users\sv.spasov\source\repos\Lists More Exercise\05. Bomb Numbers\obj\Debug\net5.0\05. Bomb Numbers.genruntimeconfig.cache

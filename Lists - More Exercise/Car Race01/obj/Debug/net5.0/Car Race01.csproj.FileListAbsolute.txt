@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\bin\Debug\net5.0\Car Race01.exe
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\bin\Debug\net5.0\Car Race01.deps.json
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\bin\Debug\net5.0\Car Race01.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\bin\Debug\net5.0\Car Race01.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\bin\Debug\net5.0\Car Race01.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\bin\Debug\net5.0\ref\Car Race01.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\bin\Debug\net5.0\Car Race01.pdb
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\ref\Car Race01.dll
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.pdb
+C:\Users\sv.spasov\source\repos\Lists - More Exercise\Car Race01\obj\Debug\net5.0\Car Race01.genruntimeconfig.cache

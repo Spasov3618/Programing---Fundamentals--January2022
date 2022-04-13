@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2M3xMb6mK0ADtPnDkQgUeiYck9CFhxzvr/smwEEqeU/M+4rcv5haTcmjxZFCBWdLdswO2uQaLKv2IXOSWT5c2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Lists - More Exercise\\02. Car Race\\02. Car Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

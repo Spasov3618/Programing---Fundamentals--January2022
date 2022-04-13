@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bCdAmIFv4N2j2AIwFOiDKwSsjEYzJzMgTl6AaOQEaa7SkALvAZEZJseWyurgl0+DNpfoYfT/aifAPXZThyhwbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Lists More Exercise\\04. Mixed up Lists\\04. Mixed up Lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

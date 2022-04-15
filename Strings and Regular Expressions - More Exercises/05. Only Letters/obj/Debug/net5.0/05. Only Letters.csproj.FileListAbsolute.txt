@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\net5.0\05. Only Letters.exe
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\net5.0\05. Only Letters.deps.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\net5.0\05. Only Letters.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\net5.0\05. Only Letters.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\net5.0\05. Only Letters.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\bin\Debug\net5.0\05. Only Letters.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\refint\05. Only Letters.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\05. Only Letters.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\05. Only Letters\obj\Debug\net5.0\ref\05. Only Letters.dll

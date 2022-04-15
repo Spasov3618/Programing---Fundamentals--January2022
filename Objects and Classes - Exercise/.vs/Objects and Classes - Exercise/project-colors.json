@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "162548fa-cbcf-4ec5-b8fb-d4b6fd5a9d08": {
+      "ProjectGuid": "162548fa-cbcf-4ec5-b8fb-d4b6fd5a9d08",
+      "DisplayName": "01. Advertisement Message",
+      "ColorIndex": 0
+    },
+    "f58d30fe-90de-4de0-86f8-48d7ba999349": {
+      "ProjectGuid": "f58d30fe-90de-4de0-86f8-48d7ba999349",
+      "DisplayName": "02. Articles",
+      "ColorIndex": 1
+    },
+    "bebc2f9e-3573-46c1-aa4f-fd5729efe0e1": {
+      "ProjectGuid": "bebc2f9e-3573-46c1-aa4f-fd5729efe0e1",
+      "DisplayName": "03.Articles02",
+      "ColorIndex": 2
+    },
+    "547f0573-529a-4ba7-b831-a259ba27277b": {
+      "ProjectGuid": "547f0573-529a-4ba7-b831-a259ba27277b",
+      "DisplayName": "04. Students",
+      "ColorIndex": 3
+    },
+    "6648f09d-8045-4b8f-b97e-b9f10911f0de": {
+      "ProjectGuid": "6648f09d-8045-4b8f-b97e-b9f10911f0de",
+      "DisplayName": "05. Teamwork Projects",
+      "ColorIndex": 4
+    },
+    "6f743e79-6962-40df-9310-ef9e4ad9bb97": {
+      "ProjectGuid": "6f743e79-6962-40df-9310-ef9e4ad9bb97",
+      "DisplayName": "06. Vehicle Catalogue",
+      "ColorIndex": 5
+    },
+    "5adffde0-98d6-4b87-8e76-9a3694b7215f": {
+      "ProjectGuid": "5adffde0-98d6-4b87-8e76-9a3694b7215f",
+      "DisplayName": "07. Order by Age",
+      "ColorIndex": 6
+    },
+    "3b631a06-2514-449b-86d6-784da4aaf4c7": {
+      "ProjectGuid": "3b631a06-2514-449b-86d6-784da4aaf4c7",
+      "DisplayName": "More Exercise01. Company Roster",
+      "ColorIndex": 7
+    },
+    "ff12f182-5ce7-4c5f-861e-f4ec54d0edca": {
+      "ProjectGuid": "ff12f182-5ce7-4c5f-861e-f4ec54d0edca",
+      "DisplayName": "More Exercise02. Oldest Family Member",
+      "ColorIndex": 8
+    },
+    "c2d78de2-6ced-4c04-913f-a695e5e68fc9": {
+      "ProjectGuid": "c2d78de2-6ced-4c04-913f-a695e5e68fc9",
+      "DisplayName": "More Exercise03. Speed Racing",
+      "ColorIndex": 9
+    },
+    "8e805300-cb3e-4966-a71e-ed03567e37f1": {
+      "ProjectGuid": "8e805300-cb3e-4966-a71e-ed03567e37f1",
+      "DisplayName": "More Exercise04. Raw Data",
+      "ColorIndex": 10
+    },
+    "118d6f0c-e936-4b41-b4f3-54dfc72d5b56": {
+      "ProjectGuid": "118d6f0c-e936-4b41-b4f3-54dfc72d5b56",
+      "DisplayName": "More Exercise05. Shopping Spree",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

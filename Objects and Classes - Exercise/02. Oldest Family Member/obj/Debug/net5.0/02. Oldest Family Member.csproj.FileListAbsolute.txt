@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.exe
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.deps.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\bin\Debug\net5.0\ref\02. Oldest Family Member.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\ref\02. Oldest Family Member.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.genruntimeconfig.cache

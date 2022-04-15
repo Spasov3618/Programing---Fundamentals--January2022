@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBOOGPX+L5RODsF2LeWKA5UtIbtsyk04Pm7/RFvyQyTZoFEJ9Ylo0KoT0ROJfkniDBK10v9WqLLERNGRsL0H3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Text Processing - Exercise\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

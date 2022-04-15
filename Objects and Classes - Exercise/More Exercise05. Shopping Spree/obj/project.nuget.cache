@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Irst5GZNE2veI/VD07+KRyPSPMVwSHLmdnstqg5+47pEAWTDFy980p6EM8zcYAXXDBnCEVDINHgJ+HqjGgyJAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Exercise\\More Exercise05. Shopping Spree\\More Exercise05. Shopping Spree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

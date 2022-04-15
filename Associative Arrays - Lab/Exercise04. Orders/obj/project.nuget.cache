@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IiBix/r91/znsWZkL3dJh4UV7pyH2hwfpsfX7f2gNUKsPdTy+BH9/cxgT1gxSwAWybiRF3u9wXJIa0IDNHWV3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Associative Arrays - Lab\\Exercise04. Orders\\Exercise04. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

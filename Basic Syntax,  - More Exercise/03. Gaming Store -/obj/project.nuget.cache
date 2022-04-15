@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRNVUepRaOHH6SxzBS6fPKzwoohOj1AhXd5rvJAOeR/X7NWeocfoGTS9JTY72ZZVAqr4DxLW3T2DvVNXYrG7ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Basic Syntax,  - More Exercise\\03. Gaming Store -\\03. Gaming Store -.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

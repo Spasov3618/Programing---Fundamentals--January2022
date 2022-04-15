@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNmdXzT5narvaKAs3UF4IDqkGBFWXwCYy+JyNxJFHmOylYD0YZ0sTaYcNqVDiYli2pelgMn5tK3QAIeD6/Av4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Lab\\02. Big Factorial\\02. Big Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

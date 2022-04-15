@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4OCcCk7HvzNz7/1iOgfZZ2e1SP99zeV1rZxQo1P/ExTeaMSeLkaiGFJINUQXEWJEAPpCSb7olBT3S+axWVo5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Exercise\\02. Oldest Family Member\\More Exercise02. Oldest Family Member.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

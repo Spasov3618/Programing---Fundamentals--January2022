@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjCvIcvtAaC/Y2d+1AflLySSxHG14HAKA3dbTwjixPH+8ke8ppj7vyyRmxf5Nm7a+ZImo5cMsub1x6Bu6/p4Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Text Processing - Exercise\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

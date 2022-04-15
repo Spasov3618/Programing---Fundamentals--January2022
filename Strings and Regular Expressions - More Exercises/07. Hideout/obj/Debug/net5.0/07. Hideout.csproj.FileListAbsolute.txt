@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\net5.0\07. Hideout.exe
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\net5.0\07. Hideout.deps.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\net5.0\07. Hideout.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\net5.0\07. Hideout.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\net5.0\07. Hideout.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\bin\Debug\net5.0\07. Hideout.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\refint\07. Hideout.dll
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.pdb
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\07. Hideout.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Strings and Regular Expressions - More Exercises\07. Hideout\obj\Debug\net5.0\ref\07. Hideout.dll

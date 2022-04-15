@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eu3PCMOIXOhm+w839VSuXzAMKQOiGnD3/8msBkjtx/NQxZJwxPKou0ehm5y9gQ8l4o2dFz1foADUD8OCKoKKgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Dictionary More Exercise\\02. Judge\\02. Judge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

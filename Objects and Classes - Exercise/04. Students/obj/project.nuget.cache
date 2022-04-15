@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmYcQ8ehSZ5ds7yGJ8br9UbWTRmler6lt1CzRb1CrWgm4Cn1MOOhqe/G2TYlGXokshBHFihG+Sq5aA5libZiUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Exercise\\04. Students\\04. Students.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

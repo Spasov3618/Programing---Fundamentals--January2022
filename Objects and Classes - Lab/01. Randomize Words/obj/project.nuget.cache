@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqQhfwRzKIFHnHdcz2aWf4ML8liU0ptqKeduoaJPjr1E4h4KuEJEwrvh2mjhcO413x+7E64g2SIJCIHGizR3Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Lab\\01. Randomize Words\\01. Randomize Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

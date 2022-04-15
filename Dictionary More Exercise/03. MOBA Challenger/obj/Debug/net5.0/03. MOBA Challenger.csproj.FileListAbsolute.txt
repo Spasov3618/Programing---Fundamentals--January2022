@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\bin\Debug\net5.0\03. MOBA Challenger.exe
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\bin\Debug\net5.0\03. MOBA Challenger.deps.json
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\bin\Debug\net5.0\03. MOBA Challenger.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\bin\Debug\net5.0\03. MOBA Challenger.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\bin\Debug\net5.0\03. MOBA Challenger.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\bin\Debug\net5.0\ref\03. MOBA Challenger.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\bin\Debug\net5.0\03. MOBA Challenger.pdb
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\ref\03. MOBA Challenger.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.pdb
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\03. MOBA Challenger\obj\Debug\net5.0\03. MOBA Challenger.genruntimeconfig.cache

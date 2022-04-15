@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "More Exercise03. Speed Racing/1.0.0": {
+        "runtime": {
+          "More Exercise03. Speed Racing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "More Exercise03. Speed Racing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

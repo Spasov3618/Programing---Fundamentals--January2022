@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b78a9fbe-eccb-4208-ab59-a3c45ac12b50": {
+      "ProjectGuid": "b78a9fbe-eccb-4208-ab59-a3c45ac12b50",
+      "DisplayName": "01. Reverse Strings",
+      "ColorIndex": 0
+    },
+    "80661630-17e9-4727-b2b5-649878bb1cea": {
+      "ProjectGuid": "80661630-17e9-4727-b2b5-649878bb1cea",
+      "DisplayName": "02. Repeat Strings",
+      "ColorIndex": 1
+    },
+    "82e1fa41-37fd-476f-a8e2-52882311d4ca": {
+      "ProjectGuid": "82e1fa41-37fd-476f-a8e2-52882311d4ca",
+      "DisplayName": "03. Substring",
+      "ColorIndex": 2
+    },
+    "dd793535-9140-424c-9a0b-357e5baf0859": {
+      "ProjectGuid": "dd793535-9140-424c-9a0b-357e5baf0859",
+      "DisplayName": "04. Text Filter",
+      "ColorIndex": 3
+    },
+    "72e329e6-c7c4-49b1-b704-a43bc7197263": {
+      "ProjectGuid": "72e329e6-c7c4-49b1-b704-a43bc7197263",
+      "DisplayName": "05. Digits, Letters and Other",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f245e780-67c6-4a8f-a80c-8e9fdba78371": {
+      "ProjectGuid": "f245e780-67c6-4a8f-a80c-8e9fdba78371",
+      "DisplayName": "01. Count Real Numbers",
+      "ColorIndex": 0
+    },
+    "15c9a2b7-316f-4e0f-83e0-ae8d67beca80": {
+      "ProjectGuid": "15c9a2b7-316f-4e0f-83e0-ae8d67beca80",
+      "DisplayName": "02. Odd Occurrences",
+      "ColorIndex": 1
+    },
+    "8b0fc969-3530-46b1-8267-6f2f9fd4cc3b": {
+      "ProjectGuid": "8b0fc969-3530-46b1-8267-6f2f9fd4cc3b",
+      "DisplayName": "03. Word Synonyms",
+      "ColorIndex": 2
+    },
+    "7c4389ec-9c9e-40b0-86c5-7d428b304351": {
+      "ProjectGuid": "7c4389ec-9c9e-40b0-86c5-7d428b304351",
+      "DisplayName": "04. Word Filter",
+      "ColorIndex": 3
+    },
+    "801aaa0b-7a26-423e-8147-3cbbe5fca155": {
+      "ProjectGuid": "801aaa0b-7a26-423e-8147-3cbbe5fca155",
+      "DisplayName": "Exercise01. Count Chars in a String",
+      "ColorIndex": 4
+    },
+    "99fec49b-7eb0-4239-8f84-d5442f9c18bf": {
+      "ProjectGuid": "99fec49b-7eb0-4239-8f84-d5442f9c18bf",
+      "DisplayName": "Exercise02. A Miner Task",
+      "ColorIndex": 5
+    },
+    "3675c141-37b4-4c58-bab3-6e584457363d": {
+      "ProjectGuid": "3675c141-37b4-4c58-bab3-6e584457363d",
+      "DisplayName": "Exercise03. Legendary Farming",
+      "ColorIndex": 6
+    },
+    "5748f05e-16d5-4cec-a618-02e2be50b6d8": {
+      "ProjectGuid": "5748f05e-16d5-4cec-a618-02e2be50b6d8",
+      "DisplayName": "Exercise04. Orders",
+      "ColorIndex": 7
+    },
+    "da5a7f25-9917-4b49-86aa-34ef5aded9b2": {
+      "ProjectGuid": "da5a7f25-9917-4b49-86aa-34ef5aded9b2",
+      "DisplayName": "Exercise05. SoftUni Parking",
+      "ColorIndex": 8
+    },
+    "d471a3b1-a5b8-4fe0-a828-1d0291bcf9b3": {
+      "ProjectGuid": "d471a3b1-a5b8-4fe0-a828-1d0291bcf9b3",
+      "DisplayName": "Exercise06. Courses",
+      "ColorIndex": 9
+    },
+    "d754777e-65af-4958-be93-44c27319220f": {
+      "ProjectGuid": "d754777e-65af-4958-be93-44c27319220f",
+      "DisplayName": "Exercise07. Student Academy",
+      "ColorIndex": 10
+    },
+    "c497c9f7-de10-47ba-9cf6-c0129167be85": {
+      "ProjectGuid": "c497c9f7-de10-47ba-9cf6-c0129167be85",
+      "DisplayName": "Exercise08. Company Users",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

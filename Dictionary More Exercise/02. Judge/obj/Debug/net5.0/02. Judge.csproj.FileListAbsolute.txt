@@ -1,0 +1,15 @@
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.exe
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.deps.json
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\bin\Debug\net5.0\ref\02. Judge.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.pdb
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\ref\02. Judge.dll
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.pdb
+C:\Users\sv.spasov\source\repos\Dictionary More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.genruntimeconfig.cache

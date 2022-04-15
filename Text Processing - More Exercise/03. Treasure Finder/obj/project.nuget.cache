@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VR4MhpzlJmQRTUrr8g0XfYLJD/rY0U+uWCDasHW+fzRkJIn0fXz5O7b8ZPT3RwPj/goYi9iuM5rmuFSxv9RVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Text Processing - More Exercise\\03. Treasure Finder\\03. Treasure Finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRlyM5xJk00lsrq4d64c2LkERX38OFwpdqMDHxGPgW0L6y0gvfsb1zq/VswMXPp6z1mGkspytWBAhej39Q0m5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Text Processing - More Exercise\\01. Extract Person Information\\01. Extract Person Information.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

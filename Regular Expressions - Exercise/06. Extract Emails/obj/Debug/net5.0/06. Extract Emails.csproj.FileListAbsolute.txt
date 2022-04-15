@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.exe
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.deps.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.pdb
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\refint\06. Extract Emails.dll
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.pdb
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.genruntimeconfig.cache
+C:\Users\sv.spasov\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\ref\06. Extract Emails.dll

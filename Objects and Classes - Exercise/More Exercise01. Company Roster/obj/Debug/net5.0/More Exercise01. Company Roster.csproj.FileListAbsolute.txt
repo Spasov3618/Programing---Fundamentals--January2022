@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\bin\Debug\net5.0\More Exercise01. Company Roster.exe
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\bin\Debug\net5.0\More Exercise01. Company Roster.deps.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\bin\Debug\net5.0\More Exercise01. Company Roster.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\bin\Debug\net5.0\More Exercise01. Company Roster.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\bin\Debug\net5.0\More Exercise01. Company Roster.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\bin\Debug\net5.0\ref\More Exercise01. Company Roster.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\bin\Debug\net5.0\More Exercise01. Company Roster.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\ref\More Exercise01. Company Roster.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise01. Company Roster\obj\Debug\net5.0\More Exercise01. Company Roster.genruntimeconfig.cache

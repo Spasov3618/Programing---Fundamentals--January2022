@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/mAJNa9KUECpUB9GmWI1wGLsGVPUjK5PzLRDPQ0oBZ+ZJcLGvmkj5gmuTVwK5S7mWNu9MiauRpBjHjIVWrobw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Arrays - Lab\\Equal Arrays\\Equal Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

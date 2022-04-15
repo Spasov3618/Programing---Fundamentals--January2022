@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5kPuYN+Z+zTQC8o/KzQ3bbd/LHqndFqMVWUVN6Hel4yYrh66mruXSJnsi0/xH7EIvRIpyG4uDlKfCtBqpwuFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Associative Arrays - Lab\\Exercise07. Student Academy\\Exercise07. Student Academy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

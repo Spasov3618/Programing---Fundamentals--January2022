@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0MpvdU2wR40imjh5bKYxzD5PIG7AyvnHFBEBZBWl2jf8/Oeab48oYUuDmyJI1+pMIIClbWpyuar9/DmEPGSQIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Dictionary More Exercise\\04. Snowwhite\\04. Snowwhite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

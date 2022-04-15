@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\bin\Debug\net5.0\Problem1.exe
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\bin\Debug\net5.0\Problem1.deps.json
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\bin\Debug\net5.0\Problem1.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\bin\Debug\net5.0\Problem1.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\bin\Debug\net5.0\Problem1.dll
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\bin\Debug\net5.0\ref\Problem1.dll
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\bin\Debug\net5.0\Problem1.pdb
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.dll
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\ref\Problem1.dll
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.pdb
+C:\Users\sv.spasov\source\repos\MidExamp02.22\Problem1\obj\Debug\net5.0\Problem1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWkUvDW3+Bu/psGPdWvMmRIfYzfkHEmVoWfrdNg3NFcxNim/1ClHw/NRHwbEzCngLyWWnMisyN+jfI0Jx9aWuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Exercise\\More Exercise01. Company Roster\\More Exercise01. Company Roster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

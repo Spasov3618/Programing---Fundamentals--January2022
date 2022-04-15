@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2fd7508d-6086-4965-bd4f-990601efd888": {
+      "ProjectGuid": "2fd7508d-6086-4965-bd4f-990601efd888",
+      "DisplayName": "Experience Gaining",
+      "ColorIndex": 0
+    },
+    "038071d6-444e-4c25-97b0-0688bad4ad24": {
+      "ProjectGuid": "038071d6-444e-4c25-97b0-0688bad4ad24",
+      "DisplayName": "Friend List Maintenance",
+      "ColorIndex": 1
+    },
+    "b1009881-8081-4f99-9de1-315cbec5cf9f": {
+      "ProjectGuid": "b1009881-8081-4f99-9de1-315cbec5cf9f",
+      "DisplayName": "School Library",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

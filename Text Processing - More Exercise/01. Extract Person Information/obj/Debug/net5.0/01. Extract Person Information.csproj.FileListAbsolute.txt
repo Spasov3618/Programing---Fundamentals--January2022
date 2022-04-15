@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.exe
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.deps.json
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.dll
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\ref\01. Extract Person Information.dll
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.pdb
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.dll
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\ref\01. Extract Person Information.dll
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.pdb
+C:\Users\sv.spasov\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.genruntimeconfig.cache

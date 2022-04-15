@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\bin\Debug\net5.0\More Exercise03. Speed Racing.exe
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\bin\Debug\net5.0\More Exercise03. Speed Racing.deps.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\bin\Debug\net5.0\More Exercise03. Speed Racing.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\bin\Debug\net5.0\More Exercise03. Speed Racing.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\bin\Debug\net5.0\More Exercise03. Speed Racing.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\bin\Debug\net5.0\ref\More Exercise03. Speed Racing.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\bin\Debug\net5.0\More Exercise03. Speed Racing.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\ref\More Exercise03. Speed Racing.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise03. Speed Racing\obj\Debug\net5.0\More Exercise03. Speed Racing.genruntimeconfig.cache

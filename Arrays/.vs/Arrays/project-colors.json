@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44d127f9-7753-4d47-b185-f9cca4b3a6f5": {
+      "ProjectGuid": "44d127f9-7753-4d47-b185-f9cca4b3a6f5",
+      "DisplayName": "Top Integers",
+      "ColorIndex": 0
+    },
+    "77c9ac34-9da2-4072-9a3c-d3150dfb8242": {
+      "ProjectGuid": "77c9ac34-9da2-4072-9a3c-d3150dfb8242",
+      "DisplayName": "06. Equal Sum",
+      "ColorIndex": 1
+    },
+    "8775b69d-ca2e-41b7-bab9-ce65e9fb5037": {
+      "ProjectGuid": "8775b69d-ca2e-41b7-bab9-ce65e9fb5037",
+      "DisplayName": "03. Zig-Zag Arrays",
+      "ColorIndex": 2
+    },
+    "8c53b5a5-da4d-4da0-b6c6-29a230c0c04b": {
+      "ProjectGuid": "8c53b5a5-da4d-4da0-b6c6-29a230c0c04b",
+      "DisplayName": "test",
+      "ColorIndex": 3
+    },
+    "08aba1ae-1a15-4c9c-9f95-a69b11027ccf": {
+      "ProjectGuid": "08aba1ae-1a15-4c9c-9f95-a69b11027ccf",
+      "DisplayName": "Max Sequence of Equal Elements",
+      "ColorIndex": 4
+    },
+    "8abccbee-b90d-492f-8a39-b365bd7c6801": {
+      "ProjectGuid": "8abccbee-b90d-492f-8a39-b365bd7c6801",
+      "DisplayName": "Magic Sum",
+      "ColorIndex": 5
+    },
+    "3c4e83c3-0aff-4693-8c73-6bfca881c8c0": {
+      "ProjectGuid": "3c4e83c3-0aff-4693-8c73-6bfca881c8c0",
+      "DisplayName": "Kamino Factory",
+      "ColorIndex": 6
+    },
+    "be497217-b6a2-4836-adc9-df27f495df01": {
+      "ProjectGuid": "be497217-b6a2-4836-adc9-df27f495df01",
+      "DisplayName": "LadyBugs",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

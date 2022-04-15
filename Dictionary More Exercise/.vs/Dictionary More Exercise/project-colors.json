@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e2ff280-b930-4aed-9ee9-09b1936e6ee2": {
+      "ProjectGuid": "1e2ff280-b930-4aed-9ee9-09b1936e6ee2",
+      "DisplayName": "01. Ranking",
+      "ColorIndex": 0
+    },
+    "090926e5-1f81-4f03-9656-c25ee16f3d14": {
+      "ProjectGuid": "090926e5-1f81-4f03-9656-c25ee16f3d14",
+      "DisplayName": "02. Judge",
+      "ColorIndex": 1
+    },
+    "0eafd652-b147-43fc-93cd-c2d9e34d9392": {
+      "ProjectGuid": "0eafd652-b147-43fc-93cd-c2d9e34d9392",
+      "DisplayName": "03. MOBA Challenger",
+      "ColorIndex": 2
+    },
+    "d72934ab-44e6-455b-83e4-e97d7b4e19c5": {
+      "ProjectGuid": "d72934ab-44e6-455b-83e4-e97d7b4e19c5",
+      "DisplayName": "04. Snowwhite",
+      "ColorIndex": 3
+    },
+    "4b61d563-b2a1-40dc-a9ce-37cc063bd0f4": {
+      "ProjectGuid": "4b61d563-b2a1-40dc-a9ce-37cc063bd0f4",
+      "DisplayName": "05. Dragon Army",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

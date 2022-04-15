@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qMgb1COykpon1F6oMoImMl7NHMgQD+QO8Z/cdNnUWp0scn8Kw1HFefbGFgXPc7gSUHd9kRpR4J6X05CiR2piA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\MidExamp02.22\\Problem1\\Experience Gaining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

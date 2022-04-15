@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OxxdZkEbeSVqBp30P+THehynL2inqK3I86qmU4rZS1CCpo4hXUtQMEsQ8YZOytfcgAc+jihTpeOw0PTUyOCXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Text Processing - Lab\\03. Substring\\03. Substring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

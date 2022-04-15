@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\bin\Debug\net5.0\More Exercise04. Raw Data.exe
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\bin\Debug\net5.0\More Exercise04. Raw Data.deps.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\bin\Debug\net5.0\More Exercise04. Raw Data.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\bin\Debug\net5.0\More Exercise04. Raw Data.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\bin\Debug\net5.0\More Exercise04. Raw Data.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\bin\Debug\net5.0\ref\More Exercise04. Raw Data.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\bin\Debug\net5.0\More Exercise04. Raw Data.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\ref\More Exercise04. Raw Data.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Exercise\More Exercise04. Raw Data\obj\Debug\net5.0\More Exercise04. Raw Data.genruntimeconfig.cache

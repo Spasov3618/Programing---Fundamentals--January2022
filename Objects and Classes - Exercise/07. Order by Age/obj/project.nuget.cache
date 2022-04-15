@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "puOq2CtEdA6n/WDDpcbLa6GPgl+Oyt+oIYQpyuix5wiGjH3HOcuhQrjLX4LKWHE93J4icIHhO9bif/GqJwXiSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Exercise\\07. Order by Age\\07. Order by Age.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

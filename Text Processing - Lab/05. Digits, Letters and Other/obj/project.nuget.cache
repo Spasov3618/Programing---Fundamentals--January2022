@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2DJ+h0b+dIjtj7RoilUUiJP5qVjKx5P1M4W1efJvLYZhRwvJOuAKqL27vtnL+E1z7fS6GvYOlJyGqVJSjXFsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Text Processing - Lab\\05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

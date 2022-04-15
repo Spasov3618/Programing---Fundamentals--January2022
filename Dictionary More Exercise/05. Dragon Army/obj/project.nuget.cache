@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YxSTxNtnYYT9CFjYW/mxCsnAdkSKWkPQrnBOlcdcHi6wNX+h8Ui82jcV3AZC0r0lUjgSKPJ6WZnzxIpJIPmnBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Dictionary More Exercise\\05. Dragon Army\\05. Dragon Army.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

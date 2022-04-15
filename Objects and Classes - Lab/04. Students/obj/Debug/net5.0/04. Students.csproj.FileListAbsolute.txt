@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\bin\Debug\net5.0\04. Students.exe
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\bin\Debug\net5.0\04. Students.deps.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\bin\Debug\net5.0\04. Students.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\bin\Debug\net5.0\04. Students.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\bin\Debug\net5.0\04. Students.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\bin\Debug\net5.0\ref\04. Students.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\bin\Debug\net5.0\04. Students.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\ref\04. Students.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\04. Students\obj\Debug\net5.0\04. Students.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\bin\Debug\net5.0\Exercise06. Courses.exe
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\bin\Debug\net5.0\Exercise06. Courses.deps.json
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\bin\Debug\net5.0\Exercise06. Courses.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\bin\Debug\net5.0\Exercise06. Courses.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\bin\Debug\net5.0\Exercise06. Courses.dll
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\bin\Debug\net5.0\ref\Exercise06. Courses.dll
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\bin\Debug\net5.0\Exercise06. Courses.pdb
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\Exercise06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\Exercise06. Courses.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\Exercise06. Courses.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\Exercise06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\Exercise06. Courses.dll
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\ref\Exercise06. Courses.dll
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\Exercise06. Courses.pdb
+C:\Users\sv.spasov\source\repos\Associative Arrays - Lab\Exercise06. Courses\obj\Debug\net5.0\Exercise06. Courses.genruntimeconfig.cache

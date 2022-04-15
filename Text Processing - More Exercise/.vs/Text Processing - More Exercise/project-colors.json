@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2cbdbe1-3e64-4417-92db-45d10d7d9f38": {
+      "ProjectGuid": "d2cbdbe1-3e64-4417-92db-45d10d7d9f38",
+      "DisplayName": "01. Extract Person Information",
+      "ColorIndex": 0
+    },
+    "0dd19c40-f8f9-44a4-bed8-55c7f174afd8": {
+      "ProjectGuid": "0dd19c40-f8f9-44a4-bed8-55c7f174afd8",
+      "DisplayName": "02. Ascii Sumator",
+      "ColorIndex": 1
+    },
+    "8d19378a-55be-4fa7-adaa-9f8b48ff2bcf": {
+      "ProjectGuid": "8d19378a-55be-4fa7-adaa-9f8b48ff2bcf",
+      "DisplayName": "03. Treasure Finder",
+      "ColorIndex": 2
+    },
+    "d5b612df-f375-4683-b004-d9c6a5e16c91": {
+      "ProjectGuid": "d5b612df-f375-4683-b004-d9c6a5e16c91",
+      "DisplayName": "04. Morse Code Translator",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bcBtmw5yATf5ggbpZLdPScXdZj3md+6fUC4tKeAjR1Ex39s8OmJ0NwQIQvpzMTuJy+SpL/i2yGyxYND1oALww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Dictionary More Exercise\\01. Ranking\\01. Ranking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

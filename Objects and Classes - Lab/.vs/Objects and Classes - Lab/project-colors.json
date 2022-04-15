@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84284dc4-db3e-4638-a75e-2c8810c6908a": {
+      "ProjectGuid": "84284dc4-db3e-4638-a75e-2c8810c6908a",
+      "DisplayName": "01. Randomize Words",
+      "ColorIndex": 0
+    },
+    "c5fc447f-0a99-416b-afa7-a341a9128573": {
+      "ProjectGuid": "c5fc447f-0a99-416b-afa7-a341a9128573",
+      "DisplayName": "02. Big Factorial",
+      "ColorIndex": 1
+    },
+    "64e11c1c-8d02-423d-9df3-f8337da3f1f3": {
+      "ProjectGuid": "64e11c1c-8d02-423d-9df3-f8337da3f1f3",
+      "DisplayName": "03.Songs",
+      "ColorIndex": 2
+    },
+    "e61586d2-f061-443c-80f8-e80ba0f5b34f": {
+      "ProjectGuid": "e61586d2-f061-443c-80f8-e80ba0f5b34f",
+      "DisplayName": "04. Students",
+      "ColorIndex": 3
+    },
+    "d711bdc9-794d-4ccf-944f-5f288025d2c8": {
+      "ProjectGuid": "d711bdc9-794d-4ccf-944f-5f288025d2c8",
+      "DisplayName": "05. Students 2.0",
+      "ColorIndex": 4
+    },
+    "3049d688-d56a-4ce0-9318-b49456e80d2a": {
+      "ProjectGuid": "3049d688-d56a-4ce0-9318-b49456e80d2a",
+      "DisplayName": "06. Store Boxes",
+      "ColorIndex": 5
+    },
+    "d08479ef-5c9c-4da5-8810-ddf95168a1f3": {
+      "ProjectGuid": "d08479ef-5c9c-4da5-8810-ddf95168a1f3",
+      "DisplayName": "07. Vehicle Catalogue",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

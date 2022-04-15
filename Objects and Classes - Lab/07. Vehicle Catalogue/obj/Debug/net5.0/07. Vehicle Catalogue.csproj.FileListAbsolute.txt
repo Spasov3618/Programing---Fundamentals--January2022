@@ -1,0 +1,16 @@
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.exe
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.deps.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\ref\07. Vehicle Catalogue.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\ref\07. Vehicle Catalogue.dll
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.pdb
+C:\Users\sv.spasov\source\repos\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.genruntimeconfig.cache

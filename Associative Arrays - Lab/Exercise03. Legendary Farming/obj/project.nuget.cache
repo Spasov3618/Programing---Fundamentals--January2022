@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVijpQhjxVUiXr0IVrKo9wI9x1ub8UZ+yJ/Igu1q9yem7z/I4FTaurgyKxaJQzmk/8KAIsrlulZTmFsfPz7YWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Associative Arrays - Lab\\Exercise03. Legendary Farming\\Exercise03. Legendary Farming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

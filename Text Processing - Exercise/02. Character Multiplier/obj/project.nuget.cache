@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sDmdBHN8HFwcIUsiBl9fk56mbHO2JD7W6JIXG3JHigOISlfRKRr3hmF7cFnFhLYBSfDt48sLVXJYyj++vmkbyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Text Processing - Exercise\\02. Character Multiplier\\02. Character Multiplier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

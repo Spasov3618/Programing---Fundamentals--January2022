@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOkSB9doKNiWy9r94BE4jFvNWKASUWH3HmlmJHb3OsoSYCvArW/v/51N5L8nOinBugt8Y8M5HDHi+WhWqnVNoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Objects and Classes - Lab\\07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

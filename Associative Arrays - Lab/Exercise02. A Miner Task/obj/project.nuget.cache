@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEU9J/NgA2KGm54Y8LdYUx009jr85rNwQ18OO8qgJhnd3VgcL2STMqh51Ku0CbWzPPtdNSYXXckfD/o5znYF/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\Associative Arrays - Lab\\Exercise02. A Miner Task\\Exercise02. A Miner Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sv.spasov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
